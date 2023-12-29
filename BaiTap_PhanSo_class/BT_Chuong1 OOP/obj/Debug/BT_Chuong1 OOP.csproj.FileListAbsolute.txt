@@ -1,0 +1,7 @@
+D:\BT_PhanSo_Class\BaiTap_PhanSo_class\BT_Chuong1 OOP\bin\Debug\BT_Chuong1 OOP.exe.config
+D:\BT_PhanSo_Class\BaiTap_PhanSo_class\BT_Chuong1 OOP\bin\Debug\BT_Chuong1 OOP.exe
+D:\BT_PhanSo_Class\BaiTap_PhanSo_class\BT_Chuong1 OOP\bin\Debug\BT_Chuong1 OOP.pdb
+D:\BT_PhanSo_Class\BaiTap_PhanSo_class\BT_Chuong1 OOP\obj\Debug\BT_Chuong1 OOP.csproj.AssemblyReference.cache
+D:\BT_PhanSo_Class\BaiTap_PhanSo_class\BT_Chuong1 OOP\obj\Debug\BT_Chuong1 OOP.csproj.CoreCompileInputs.cache
+D:\BT_PhanSo_Class\BaiTap_PhanSo_class\BT_Chuong1 OOP\obj\Debug\BT_Chuong1 OOP.exe
+D:\BT_PhanSo_Class\BaiTap_PhanSo_class\BT_Chuong1 OOP\obj\Debug\BT_Chuong1 OOP.pdb
