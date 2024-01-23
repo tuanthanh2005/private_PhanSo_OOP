@@ -1,0 +1,7 @@
+D:\Class_OOP_Basic\KTB1_De1\KTB1_De1\bin\Debug\KTB1_De1.exe.config
+D:\Class_OOP_Basic\KTB1_De1\KTB1_De1\bin\Debug\KTB1_De1.exe
+D:\Class_OOP_Basic\KTB1_De1\KTB1_De1\bin\Debug\KTB1_De1.pdb
+D:\Class_OOP_Basic\KTB1_De1\KTB1_De1\obj\Debug\KTB1_De1.csproj.AssemblyReference.cache
+D:\Class_OOP_Basic\KTB1_De1\KTB1_De1\obj\Debug\KTB1_De1.csproj.CoreCompileInputs.cache
+D:\Class_OOP_Basic\KTB1_De1\KTB1_De1\obj\Debug\KTB1_De1.exe
+D:\Class_OOP_Basic\KTB1_De1\KTB1_De1\obj\Debug\KTB1_De1.pdb

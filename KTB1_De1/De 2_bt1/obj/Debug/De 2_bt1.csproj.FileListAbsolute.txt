@@ -1,0 +1,7 @@
+D:\Class_OOP_Basic\KTB1_De1\De 2_bt1\bin\Debug\De 2_bt1.exe.config
+D:\Class_OOP_Basic\KTB1_De1\De 2_bt1\bin\Debug\De 2_bt1.exe
+D:\Class_OOP_Basic\KTB1_De1\De 2_bt1\bin\Debug\De 2_bt1.pdb
+D:\Class_OOP_Basic\KTB1_De1\De 2_bt1\obj\Debug\De 2_bt1.csproj.AssemblyReference.cache
+D:\Class_OOP_Basic\KTB1_De1\De 2_bt1\obj\Debug\De 2_bt1.csproj.CoreCompileInputs.cache
+D:\Class_OOP_Basic\KTB1_De1\De 2_bt1\obj\Debug\De 2_bt1.exe
+D:\Class_OOP_Basic\KTB1_De1\De 2_bt1\obj\Debug\De 2_bt1.pdb

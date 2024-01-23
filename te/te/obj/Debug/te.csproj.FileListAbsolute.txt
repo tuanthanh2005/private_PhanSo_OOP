@@ -1,0 +1,7 @@
+D:\Class_OOP_Basic\te\te\bin\Debug\te.exe.config
+D:\Class_OOP_Basic\te\te\bin\Debug\te.exe
+D:\Class_OOP_Basic\te\te\bin\Debug\te.pdb
+D:\Class_OOP_Basic\te\te\obj\Debug\te.csproj.AssemblyReference.cache
+D:\Class_OOP_Basic\te\te\obj\Debug\te.csproj.CoreCompileInputs.cache
+D:\Class_OOP_Basic\te\te\obj\Debug\te.exe
+D:\Class_OOP_Basic\te\te\obj\Debug\te.pdb

@@ -1,0 +1,7 @@
+D:\BT_PhanSo_Class\SinhVien_B4\Chuong1_SinhVien_OOP\bin\Debug\Chuong1_SinhVien_OOP.exe.config
+D:\BT_PhanSo_Class\SinhVien_B4\Chuong1_SinhVien_OOP\bin\Debug\Chuong1_SinhVien_OOP.exe
+D:\BT_PhanSo_Class\SinhVien_B4\Chuong1_SinhVien_OOP\bin\Debug\Chuong1_SinhVien_OOP.pdb
+D:\BT_PhanSo_Class\SinhVien_B4\Chuong1_SinhVien_OOP\obj\Debug\Chuong1_SinhVien_OOP.csproj.AssemblyReference.cache
+D:\BT_PhanSo_Class\SinhVien_B4\Chuong1_SinhVien_OOP\obj\Debug\Chuong1_SinhVien_OOP.csproj.CoreCompileInputs.cache
+D:\BT_PhanSo_Class\SinhVien_B4\Chuong1_SinhVien_OOP\obj\Debug\Chuong1_SinhVien_OOP.exe
+D:\BT_PhanSo_Class\SinhVien_B4\Chuong1_SinhVien_OOP\obj\Debug\Chuong1_SinhVien_OOP.pdb

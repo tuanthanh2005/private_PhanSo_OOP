@@ -1,0 +1,7 @@
+D:\Class_OOP_Basic\DSLKDOn_NhapX_XoaX\DSLKDOn_NhapX_XoaX\bin\Debug\DSLKDOn_NhapX_XoaX.exe.config
+D:\Class_OOP_Basic\DSLKDOn_NhapX_XoaX\DSLKDOn_NhapX_XoaX\bin\Debug\DSLKDOn_NhapX_XoaX.exe
+D:\Class_OOP_Basic\DSLKDOn_NhapX_XoaX\DSLKDOn_NhapX_XoaX\bin\Debug\DSLKDOn_NhapX_XoaX.pdb
+D:\Class_OOP_Basic\DSLKDOn_NhapX_XoaX\DSLKDOn_NhapX_XoaX\obj\Debug\DSLKDOn_NhapX_XoaX.csproj.AssemblyReference.cache
+D:\Class_OOP_Basic\DSLKDOn_NhapX_XoaX\DSLKDOn_NhapX_XoaX\obj\Debug\DSLKDOn_NhapX_XoaX.csproj.CoreCompileInputs.cache
+D:\Class_OOP_Basic\DSLKDOn_NhapX_XoaX\DSLKDOn_NhapX_XoaX\obj\Debug\DSLKDOn_NhapX_XoaX.exe
+D:\Class_OOP_Basic\DSLKDOn_NhapX_XoaX\DSLKDOn_NhapX_XoaX\obj\Debug\DSLKDOn_NhapX_XoaX.pdb

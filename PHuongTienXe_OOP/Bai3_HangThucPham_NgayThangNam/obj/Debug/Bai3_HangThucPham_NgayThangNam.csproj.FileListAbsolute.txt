@@ -1,0 +1,7 @@
+D:\BT_PhanSo_Class\PHuongTienXe_OOP\Bai3_HangThucPham_NgayThangNam\bin\Debug\Bai3_HangThucPham_NgayThangNam.exe.config
+D:\BT_PhanSo_Class\PHuongTienXe_OOP\Bai3_HangThucPham_NgayThangNam\bin\Debug\Bai3_HangThucPham_NgayThangNam.exe
+D:\BT_PhanSo_Class\PHuongTienXe_OOP\Bai3_HangThucPham_NgayThangNam\bin\Debug\Bai3_HangThucPham_NgayThangNam.pdb
+D:\BT_PhanSo_Class\PHuongTienXe_OOP\Bai3_HangThucPham_NgayThangNam\obj\Debug\Bai3_HangThucPham_NgayThangNam.csproj.AssemblyReference.cache
+D:\BT_PhanSo_Class\PHuongTienXe_OOP\Bai3_HangThucPham_NgayThangNam\obj\Debug\Bai3_HangThucPham_NgayThangNam.csproj.CoreCompileInputs.cache
+D:\BT_PhanSo_Class\PHuongTienXe_OOP\Bai3_HangThucPham_NgayThangNam\obj\Debug\Bai3_HangThucPham_NgayThangNam.exe
+D:\BT_PhanSo_Class\PHuongTienXe_OOP\Bai3_HangThucPham_NgayThangNam\obj\Debug\Bai3_HangThucPham_NgayThangNam.pdb

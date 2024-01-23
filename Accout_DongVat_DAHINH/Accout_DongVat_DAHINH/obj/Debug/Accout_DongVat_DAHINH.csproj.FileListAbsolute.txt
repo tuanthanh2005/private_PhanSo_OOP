@@ -1,0 +1,7 @@
+D:\Class_OOP_Basic\Accout_DongVat_DAHINH\Accout_DongVat_DAHINH\bin\Debug\Accout_DongVat_DAHINH.exe.config
+D:\Class_OOP_Basic\Accout_DongVat_DAHINH\Accout_DongVat_DAHINH\bin\Debug\Accout_DongVat_DAHINH.exe
+D:\Class_OOP_Basic\Accout_DongVat_DAHINH\Accout_DongVat_DAHINH\bin\Debug\Accout_DongVat_DAHINH.pdb
+D:\Class_OOP_Basic\Accout_DongVat_DAHINH\Accout_DongVat_DAHINH\obj\Debug\Accout_DongVat_DAHINH.csproj.AssemblyReference.cache
+D:\Class_OOP_Basic\Accout_DongVat_DAHINH\Accout_DongVat_DAHINH\obj\Debug\Accout_DongVat_DAHINH.csproj.CoreCompileInputs.cache
+D:\Class_OOP_Basic\Accout_DongVat_DAHINH\Accout_DongVat_DAHINH\obj\Debug\Accout_DongVat_DAHINH.exe
+D:\Class_OOP_Basic\Accout_DongVat_DAHINH\Accout_DongVat_DAHINH\obj\Debug\Accout_DongVat_DAHINH.pdb

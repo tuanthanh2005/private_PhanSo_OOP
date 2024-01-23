@@ -1,0 +1,7 @@
+D:\Class_OOP_Basic\OOP_CuaHang\OOP_CuaHang\bin\Debug\OOP_CuaHang.exe.config
+D:\Class_OOP_Basic\OOP_CuaHang\OOP_CuaHang\bin\Debug\OOP_CuaHang.exe
+D:\Class_OOP_Basic\OOP_CuaHang\OOP_CuaHang\bin\Debug\OOP_CuaHang.pdb
+D:\Class_OOP_Basic\OOP_CuaHang\OOP_CuaHang\obj\Debug\OOP_CuaHang.csproj.AssemblyReference.cache
+D:\Class_OOP_Basic\OOP_CuaHang\OOP_CuaHang\obj\Debug\OOP_CuaHang.csproj.CoreCompileInputs.cache
+D:\Class_OOP_Basic\OOP_CuaHang\OOP_CuaHang\obj\Debug\OOP_CuaHang.exe
+D:\Class_OOP_Basic\OOP_CuaHang\OOP_CuaHang\obj\Debug\OOP_CuaHang.pdb

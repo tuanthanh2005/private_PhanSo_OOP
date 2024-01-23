@@ -1,0 +1,7 @@
+D:\BT_PhanSo_Class\PHuongTienXe_OOP\Text\bin\Debug\Text.exe.config
+D:\BT_PhanSo_Class\PHuongTienXe_OOP\Text\bin\Debug\Text.exe
+D:\BT_PhanSo_Class\PHuongTienXe_OOP\Text\bin\Debug\Text.pdb
+D:\BT_PhanSo_Class\PHuongTienXe_OOP\Text\obj\Debug\Text.csproj.AssemblyReference.cache
+D:\BT_PhanSo_Class\PHuongTienXe_OOP\Text\obj\Debug\Text.csproj.CoreCompileInputs.cache
+D:\BT_PhanSo_Class\PHuongTienXe_OOP\Text\obj\Debug\Text.exe
+D:\BT_PhanSo_Class\PHuongTienXe_OOP\Text\obj\Debug\Text.pdb

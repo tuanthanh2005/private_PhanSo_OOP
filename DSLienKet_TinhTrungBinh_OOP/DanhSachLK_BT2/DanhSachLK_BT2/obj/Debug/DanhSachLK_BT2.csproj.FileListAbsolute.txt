@@ -1,0 +1,7 @@
+D:\Class_OOP_Basic\DanhSachLK_BT2\DanhSachLK_BT2\bin\Debug\DanhSachLK_BT2.exe.config
+D:\Class_OOP_Basic\DanhSachLK_BT2\DanhSachLK_BT2\bin\Debug\DanhSachLK_BT2.exe
+D:\Class_OOP_Basic\DanhSachLK_BT2\DanhSachLK_BT2\bin\Debug\DanhSachLK_BT2.pdb
+D:\Class_OOP_Basic\DanhSachLK_BT2\DanhSachLK_BT2\obj\Debug\DanhSachLK_BT2.csproj.AssemblyReference.cache
+D:\Class_OOP_Basic\DanhSachLK_BT2\DanhSachLK_BT2\obj\Debug\DanhSachLK_BT2.csproj.CoreCompileInputs.cache
+D:\Class_OOP_Basic\DanhSachLK_BT2\DanhSachLK_BT2\obj\Debug\DanhSachLK_BT2.exe
+D:\Class_OOP_Basic\DanhSachLK_BT2\DanhSachLK_BT2\obj\Debug\DanhSachLK_BT2.pdb

@@ -1,0 +1,7 @@
+D:\Class_OOP_Basic\BaiTap_Stack_OOP_1\BaiTap_Stack_OOP_1\bin\Debug\BaiTap_Stack_OOP_1.exe.config
+D:\Class_OOP_Basic\BaiTap_Stack_OOP_1\BaiTap_Stack_OOP_1\bin\Debug\BaiTap_Stack_OOP_1.exe
+D:\Class_OOP_Basic\BaiTap_Stack_OOP_1\BaiTap_Stack_OOP_1\bin\Debug\BaiTap_Stack_OOP_1.pdb
+D:\Class_OOP_Basic\BaiTap_Stack_OOP_1\BaiTap_Stack_OOP_1\obj\Debug\BaiTap_Stack_OOP_1.csproj.AssemblyReference.cache
+D:\Class_OOP_Basic\BaiTap_Stack_OOP_1\BaiTap_Stack_OOP_1\obj\Debug\BaiTap_Stack_OOP_1.csproj.CoreCompileInputs.cache
+D:\Class_OOP_Basic\BaiTap_Stack_OOP_1\BaiTap_Stack_OOP_1\obj\Debug\BaiTap_Stack_OOP_1.exe
+D:\Class_OOP_Basic\BaiTap_Stack_OOP_1\BaiTap_Stack_OOP_1\obj\Debug\BaiTap_Stack_OOP_1.pdb
